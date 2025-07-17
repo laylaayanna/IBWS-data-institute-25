@@ -1,6 +1,6 @@
 # di25-learnings
 <p>
-This is a collection and recollection of all the 14 members of the 2025 class of <a href="https://cjddatainstitute.org/">The Data Institute</a> — a collaboration between the <a href="https://cfjd.howard.edu/">Center for Journalism & Democracy</a> and the <a href="https://idabwellssociety.org/">Ida B. Wells Society for Investigative Reporting</a> — learned July 7 to July 18 in Atlanta, Georgia. A member of our cohort, <a href="https://www.ncat.edu/employee-bio.php?directoryID=690815680">Nicole Watson</a>, had the idea to collate the tools we discussed during our two weeks. Below is an attempt at doing so.
+This is a collection and recollection of all the 14 members of the 2025 class of <a href="https://cjddatainstitute.org/">The Data Institute</a> — a collaboration between the <a href="https://cfjd.howard.edu/">Center for Journalism & Democracy</a> and the <a href="https://idabwellssociety.org/">Ida B. Wells Society for Investigative Reporting</a> — learned July 7 to July 18 in Atlanta, Georgia. A member of our cohort, <a href="https://www.ncat.edu/employee-bio.php?directoryID=690815680">Nicole Watson</a>, had the idea to collate the tools we discussed during our two weeks. Below is an attempt at doing so. The repo for the class can be found <a href="https://github.com/cjddatainstitute/data-institute-2025/blob/main/README.md">here</a>.
 </p>
 
 <h4>Our invaluable instructors, structured as they'd want to be, include:</h4>
@@ -43,8 +43,9 @@ Now,
 
 <dl class="clean_data">
 <h3>How to clean data:</h3>
-  <dt>TK</dt>
-    <dd>TKTK</dd>
+  <dt>Open Refine</dt>
+    <dd>Data standardization is way easier with <a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2025.pdf">Open Refine<a>. Humans know "Delta" and "Delta Airlines" and "Delta Air lines" are the same. Computers don't. This tool uses different linguistics models to analyze the data and makes guesses to help you reconcile.</dd>
+  
 </dl class="clean_data">
 
 How to manipulate data:
