@@ -38,7 +38,7 @@ Now,
   <dt>Google Advanced Search</dt>
     <dd>Though simple, <a href="https://www.google.com/advanced_search">Google Advanced Search</a> is your friend. Try searching a domain for only a pdf or an csv file and see what you get.</dd>
 <dt>Letter generator</dt>
-  <dd>The Student Press Law Center has a <a href="https://splc.org/lettergenerator/> public records letter generator</a> that will write a bulletproof request.</dd>
+  <dd>The Student Press Law Center has a <a href="https://splc.org/lettergenerator/"> public records letter generator</a> that will write a bulletproof request.</dd>
 </dl class="get_data">
 
 How to clean data:
