@@ -16,7 +16,7 @@ This is a collection and recollection of all the 14 members of the 2025 class of
   
 <p>We are deeply indebted to them and those who came before us.</p>
 
-<dl>
+<dl class="weeks">
 <dt>Week 1:</dt>
   <dd><a href="https://github.com/cjddatainstitute/data-institute-2025/#day-1">Day 1: Intro to Data Journalism, Spreadsheets, Best Practices</a></dd>
   <dd><a href="https://github.com/cjddatainstitute/data-institute-2025/#day-2">Day 2: Evaluating Data, Open Refine, Analyzing One Variable</a></dd>
@@ -27,15 +27,19 @@ This is a collection and recollection of all the 14 members of the 2025 class of
   <dd><a href="https://github.com/cjddatainstitute/data-institute-2025/#day-6">Day 6: Intro to Design, Make Your Own Website</a></dd>
   <dd><a href="https://github.com/cjddatainstitute/data-institute-2025/#day-7">Day 7: Web Scraping, Fundamentals of Programming</a></dd>
   <dd><a href="https://github.com/cjddatainstitute/data-institute-2025/#day-8">Day 8: Even More Web Scraping</a></dd>
-</dl>
+</dl class="weeks">
 
 <p>Want to use the slides? The teaching materials fall under the <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons license</a>.</p>
 
 Now, 
 
-How to get data:
-<a href="https://splc.org/lettergenerator/>Letter generator</a>
-  The Student Press Law Center has a public records letter generator that will write a bulletproof request.
+<dl class="get_data">
+<h3>How to get data:</h3>
+  <dt>Google Advanced Search</dt>
+    <dd>Though simple, <a href="https://www.google.com/advanced_search">Google Advanced Search</a> is your friend. Try searching a domain for only a pdf or an csv file and see what you get.</dd>
+<dt>Letter generator</dt>
+  <dd>The Student Press Law Center has a <a href="https://splc.org/lettergenerator/> public records letter generator</a> that will write a bulletproof request.</dd>
+</dl class="get_data">
 
 How to clean data:
 
