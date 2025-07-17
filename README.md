@@ -31,7 +31,7 @@ This is a collection and recollection of all the 14 members of the 2025 class of
 
 <p>Want to use the slides? The teaching materials fall under the <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons license</a>.</p>
 
-Now, 
+<h2>Now, here are some tools.</h2>
 
 <dl class="get_data">
 <h3>How to get data:</h3>
@@ -42,15 +42,23 @@ Now,
 </dl class="get_data">
 
 <dl class="clean_data">
-<h3>How to clean data:</h3>
+<h3>How to load, clean, load clean data:</h3>
   <dt>Open Refine</dt>
     <dd>Data standardization is way easier with <a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2025.pdf">Open Refine<a>. Humans know "Delta" and "Delta Airlines" and "Delta Air lines" are the same. Computers don't. This tool uses different linguistics models to analyze the data and makes guesses to help you reconcile.</dd>
-  
+  <dt>Tabula</dt>
+    <dd>If you have ever cursed at the inability to copy structured data from a PDF, then <a href+"https://tabula.technology/">Tabula</a> is an arrow to have in your quiver.</dd>
+  <dt>AI (ohhhhh)</dt>
+    <dd>Derek says using <a href="https://docs.google.com/presentation/d/1k_Mui_M5SeDKGyhbAdFw-awfDHHYoOoRHiLrv_FGtRg/edit">artifical intelligence</a> to extract data from documents is the wave of the future.  </dd>
 </dl class="clean_data">
 
-How to manipulate data:
-
-How to visualize data:
+<dl class="viz_data">
+<h3>How to visualize data:</h3>
+    <dt>Datawrapper</dt>
+      <dd>The best solution is <a href="https://www.datawrapper.de/">Datawrapper</a> if you want to make fancy, embeddable charts for free.</dd>
+    <dt>Tableau</dt>
+      <dd>No-code mapping option <a href="https://www.tableau.com/trial/visualize-your-data">Tableau</a> is free for those with a university email address.</dd>
+  
+</dl class="viz_data">
 
 Things to remember:
 Make a copy! Don't work off the original!
