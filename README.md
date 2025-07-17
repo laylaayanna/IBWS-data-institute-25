@@ -37,16 +37,26 @@ Now,
 <h3>How to get data:</h3>
   <dt>Google Advanced Search</dt>
     <dd>Though simple, <a href="https://www.google.com/advanced_search">Google Advanced Search</a> is your friend. Try searching a domain for only a pdf or an csv file and see what you get.</dd>
-<dt>Letter generator</dt>
-  <dd>The Student Press Law Center has a <a href="https://splc.org/lettergenerator/"> public records letter generator</a> that will write a bulletproof request.</dd>
+<dt>Request generator</dt>
+  <dd>The Student Press Law Center has a <a href="https://splc.org/lettergenerator/"> public records letter generator</a> that will write a bulletproof request. Muckrock has the <a href="https://www.foiamachine.org/">FOIA Machine</a> that will write your request and track it.</dd>
 </dl class="get_data">
 
-How to clean data:
+<dl class="clean_data">
+<h3>How to clean data:</h3>
+  <dt>TK</dt>
+    <dd>TKTK</dd>
+</dl class="clean_data">
 
 How to manipulate data:
 
 How to visualize data:
 
+Things to remember:
+Make a copy! Don't work off the original!
+Keep a <a href="https://cronkitedata.github.io/cronkite-docs/general/04-data-diary.html">data diary</a> so others, and you, know what happened. 
+Computers are dumb! You need to tell them <i>exactly</i> what you want them to do or they get confused.
+Make a unique ID when you create a dataset. Then you can always get it back to the original order.
+If there's a web portal, that means there's a database. So put in a request for that database.
 
 
 Some key quotes include
