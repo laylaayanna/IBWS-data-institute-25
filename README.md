@@ -6,3 +6,11 @@ This is a collection and recollection of what the 14 members of the <a href="htt
 Our invaluable instructors, in a structured format, included:
 
 TK
+
+<a href="https://github.com/cjddatainstitute/data-institute-2025/#day-1">Day 1: Intro to Data Journalism, Spreadsheets, Best Practices</a>
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
