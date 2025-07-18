@@ -21,6 +21,10 @@ This is a collection and recollection of all the 14 members of the 2025 class of
     <dd>If you have ever cursed at the inability to copy structured data from a PDF, then <a href+"https://tabula.technology/">Tabula</a> is an arrow to have in your quiver.</dd>
   <dt>AI (ohhhhh)</dt>
     <dd>Derek says using <a href="https://docs.google.com/presentation/d/1k_Mui_M5SeDKGyhbAdFw-awfDHHYoOoRHiLrv_FGtRg/edit">artifical intelligence</a> to extract data from documents is the wave of the future.  </dd>
+  <dt>HTML and CSS</dt>
+    <dd>The programming languages that decide how the internet is structured and looks, <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf>HTML</a> and <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf>CSS</a>, are useful to know because they help us find structure the extract.</dd>
+  <dt>Inspector</dt>
+      <dd>In Google Chrome, simply right-click on a webpage and click "<a href="https://developer.chrome.com/docs/devtools/open">Inspect</a>," then before you will open a magical world of information that tells you everything from the exact color of what you're seeing to the struture of the data, which tells you how to scrape the page.</dd>
   <dt>Instant Data Scraper</dt>
       <dd>There's a Chrome extension named <a href="https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US">Instant Data Scraper</a> that requires no coding knowledge to scrape websites, even ones with infinite scrolls.</dd>
   <dt>Parsehub</dt>
@@ -67,15 +71,16 @@ This is a collection and recollection of all the 14 members of the 2025 class of
 
 <p>Want to use the slides? The teaching materials fall under the <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons license</a>.</p>
 
-<ol>
-  <h3>Things to remember, from our instructors:</h3>
+<h3>Things to remember, from our instructors:</h3>
+  <ol>
     <li>Make a copy! Don't work off the original!</li>
     <li>Keep a <a href="https://cronkitedata.github.io/cronkite-docs/general/04-data-diary.html">data diary</a> so others, and you, know what happened.</li> 
     <li>Computers are dumb! You need to tell them <i>exactly</i> what you want them to do or they get confused.</li>
     <li>Make a unique ID when you create a dataset. Then you can always get it back to the original order.</li>
     <li>If there's a web portal, that means there's a database. So put in a request for that database.</li>
-</ol>
-
+  </ol>
 
 <h5>Key quote on data:</h5>
 <p class="kicker">“Who’s the worst person I know who could have done this? And how would they have messed this up?” - <i>Derek</i></p>
+
+<!--This code was written by Ben Brasch doing his best while recovering from a Mary Mac's four-piece.-->
