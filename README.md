@@ -14,13 +14,19 @@ This is a collection and recollection of all the 14 members of the 2025 class of
 </dl class="get_data">
 
 <dl class="clean_data">
-<h3>How to load, clean, load clean data:</h3>
+<h3>How to retrieve, load clean data:</h3>
   <dt>Open Refine</dt>
     <dd>Data standardization is way easier with <a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2025.pdf">Open Refine<a>. Humans know "Delta" and "Delta Airlines" and "Delta Air lines" are the same. Computers don't. This tool uses different linguistics models to analyze the data and makes guesses to help you reconcile.</dd>
   <dt>Tabula</dt>
     <dd>If you have ever cursed at the inability to copy structured data from a PDF, then <a href+"https://tabula.technology/">Tabula</a> is an arrow to have in your quiver.</dd>
   <dt>AI (ohhhhh)</dt>
     <dd>Derek says using <a href="https://docs.google.com/presentation/d/1k_Mui_M5SeDKGyhbAdFw-awfDHHYoOoRHiLrv_FGtRg/edit">artifical intelligence</a> to extract data from documents is the wave of the future.  </dd>
+  <dt>Instant Data Scraper</dt>
+      <dd>There's a Chrome extension named <a href="https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US">Instant Data Scraper</a> that requires no coding knowledge to scrape websites, even ones with infinite scrolls.</dd>
+  <dt>Parsehub</dt>
+      <dd>A more powerful no-code way to scrape a website is <a href="https://parsehub.com/">Parsehub</a>, which can handle things like subheads and infinite scrolls.</dd>
+  <dt>Monitors, scrapers</dt>
+      <dd>There are a lot of tools out there to monitor websites and scrape. Among them are <a href="https://distill.io/">Distill</a> and The Marshall Project's <a href="https://www.newsklaxon.org/">Klaxon</a> tool.</dd>
 </dl class="clean_data">
 
 <dl class="viz_data">
@@ -29,7 +35,8 @@ This is a collection and recollection of all the 14 members of the 2025 class of
       <dd>The best solution is <a href="https://www.datawrapper.de/">Datawrapper</a> if you want to make fancy, embeddable charts for free.</dd>
     <dt>Tableau</dt>
       <dd>No-code mapping option <a href="https://www.tableau.com/trial/visualize-your-data">Tableau</a> is free for those with a university email address.</dd>
-  
+    <dt>Python</dt>
+      <dd>Using modules such as <a href="https://github.com/cjddatainstitute/data-institute-2025/blob/main/real-estate-gentrification-analysis-main/wiki/common_pandas_operations.md">Pandas</a> and <a href="https://matplotlib.org/">matplotlib</a>, Python can be an even easier data visualization powerhouse.</dd>
 </dl class="viz_data">
 
 <h4>Our invaluable instructors, structured as they'd want to be, include:</h4>
@@ -70,4 +77,5 @@ This is a collection and recollection of all the 14 members of the 2025 class of
 </ol>
 
 
-Key quote on data: “Who’s the worst person I know who could have done this? And how would they have messed this up?” - Derek
+<h5>Key quote on data:</h5>
+<p class="kicker">“Who’s the worst person I know who could have done this? And how would they have messed this up?” - <i>Derek</i></p>
