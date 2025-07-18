@@ -40,7 +40,7 @@ This is a collection and recollection of all the 14 members of the 2025 class of
     <dt>Tableau</dt>
       <dd>No-code mapping option, <a href="https://www.tableau.com/trial/visualize-your-data">Tableau</a> is free for those with a university email address.</dd>
     <dt>Python</dt>
-      <dd>Using modules such as <a href="https://github.com/cjddatainstitute/data-institute-2025/blob/main/real-estate-gentrification-analysis-main/wiki/common_pandas_operations.md">Pandas</a> and <a href="https://matplotlib.org/">matplotlib</a>, Python can be an even easier data visualization powerhouse. Using a Python Notebook, such as Google's <a href="https://colab.research.google.com/">Colab</a>, means working in an IDE, or Integrated Development Environment, that smooths out the process.</dd>
+      <dd>Using modules such as <a href="https://github.com/cjddatainstitute/data-institute-2025/blob/main/real-estate-gentrification-analysis-main/wiki/common_pandas_operations.md">Pandas</a> and <a href="https://matplotlib.org/">matplotlib</a>, Python can be an even easier data visualization powerhouse. Using a Python Notebook, such as Google's <a href="https://colab.research.google.com/">Colab</a>, means one is working in an IDE, or Integrated Development Environment, which can smooth the coding process.</dd>
 </dl class="viz_data">
 
 <h4>Our invaluable instructors, structured as they'd surely want to be, include:</h4>
