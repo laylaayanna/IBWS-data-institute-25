@@ -21,7 +21,7 @@
   <dt>Open Refine</dt>
     <dd>Data standardization is way easier with <a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2025.pdf">Open Refine<a>. Humans know "Delta" and "Delta Airlines" and "Delta Air lines" are the same. Computers don't. This tool uses different linguistics models to analyze the data and makes guesses to help you reconcile.</dd>
   <dt>Tabula</dt>
-    <dd>If you have ever cursed at the inability to copy structured data from a PDF, then <a href+"https://tabula.technology/">Tabula</a> is an arrow to have in your quiver.</dd>
+    <dd>If you have ever cursed at the inability to copy structured data from a PDF, then <a href="https://tabula.technology/">Tabula</a> is an arrow to have in your quiver.</dd>
   <dt>AI (ohhhhh)</dt>
     <dd>Derek says using <a href="https://docs.google.com/presentation/d/1k_Mui_M5SeDKGyhbAdFw-awfDHHYoOoRHiLrv_FGtRg/edit">artifical intelligence</a> to extract data from documents is the wave of the future.  </dd>
   <dt>HTML and CSS</dt>
@@ -51,7 +51,7 @@
   <li><a href="https://thescoop.org/now/">Derek Willis</a></li>
   <li><a href="https://github.com/ellissimani">Ellis Simani</a></li>
   <li><a href="http://maggielee.net/">Maggie Lee</a></li>
-  <li><a href="https://research.auctr.edu/prf.php?id=5a89da03-7cdb-11ed-9922-0ad758b798c3">Brian Briones</a></li>
+  <li><a href="https://research.auctr.edu/prf.php?id=5a89da03-7cdb-11ed-9922-0ad758b798c3">Bryan Briones</a></li>
   <li><a href="https://sisiwei.com/">Sisi Wei</a></li>
   <li><a href="https://www.linkedin.com/in/richard-hackett/">Richard Hackett</a></li>
   <li><a href="https://mikegrant.me/">Michael Grant</a></li>
