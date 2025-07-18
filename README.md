@@ -22,7 +22,7 @@ This is a collection and recollection of all the 14 members of the 2025 class of
   <dt>AI (ohhhhh)</dt>
     <dd>Derek says using <a href="https://docs.google.com/presentation/d/1k_Mui_M5SeDKGyhbAdFw-awfDHHYoOoRHiLrv_FGtRg/edit">artifical intelligence</a> to extract data from documents is the wave of the future.  </dd>
   <dt>HTML and CSS</dt>
-    <dd>The programming languages that decide how the internet is structured and looks, <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf>HTML</a> and <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf>CSS</a>, are useful to know because they help us find structure the extract.</dd>
+    <dd>The programming languages that decide how the internet is structured and looks, <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf>HTML</a> and <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf">CSS</a>, are useful to know because they help us find structure the extract.</dd>
   <dt>Inspector</dt>
       <dd>In Google Chrome, simply right-click on a webpage and click "<a href="https://developer.chrome.com/docs/devtools/open">Inspect</a>," then before you will open a magical world of information that tells you everything from the exact color of what you're seeing to the struture of the data, which tells you how to scrape the page.</dd>
   <dt>Instant Data Scraper</dt>
