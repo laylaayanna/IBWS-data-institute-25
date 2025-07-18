@@ -1,7 +1,10 @@
 # di25-learnings
 <p class="intro">
-This is a collection and recollection of all the 14 members of the 2025 class of <a href="https://cjddatainstitute.org/">The Data Institute</a> — a collaboration between the <a href="https://cfjd.howard.edu/">Center for Journalism & Democracy</a> and the <a href="https://idabwellssociety.org/">Ida B. Wells Society for Investigative Reporting</a> — learned July 7 to July 18 in Atlanta, Georgia. A member of our cohort, <a href="https://www.ncat.edu/employee-bio.php?directoryID=690815680">Nicole Watson</a>, had the idea to collate the tools we discussed during our two weeks. Below is an attempt at doing so. The repo for the class can be found <a href="https://github.com/cjddatainstitute/data-institute-2025/blob/main/README.md">here</a>.
+  This is a collection and recollection of all the 14 members of the 2025 class of <a href="https://cjddatainstitute.org/">The Data Institute</a> — a collaboration between the <a href="https://cfjd.howard.edu/">Center for Journalism & Democracy</a> and the <a href="https://idabwellssociety.org/">Ida B. Wells Society for Investigative Reporting</a> — learned July 7 to July 18 in Atlanta, Georgia. A member of our cohort, <a href="https://www.ncat.edu/employee-bio.php?directoryID=690815680">Nicole Watson</a>, had the idea to collate the tools we discussed during our two weeks. Below is an attempt at doing so.
 </p>
+  <p>
+    The repo for the class can be found <a href="https://github.com/cjddatainstitute/data-institute-2025/blob/main/README.md">here</a>.
+  </p>
 
 <h2>Now, here are some tools.</h2>
 
