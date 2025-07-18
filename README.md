@@ -80,7 +80,9 @@ This is a collection and recollection of all the 14 members of the 2025 class of
     <li>If there's a web portal, that means there's a database. So put in a request for that database.</li>
   </ol>
 
-<h5>Key quote on data:</h5>
+<h5>Quote to remember when approaching data:</h5>
 <p class="kicker">“Who’s the worst person I know who could have done this? And how would they have messed this up?” - <i>Derek</i></p>
+
+<p>A sincere thank you to the amazing team at the Ida B. Wells Society who handled the logistics and snacks and flights that made this possible. They include: <i>Program Manager Arlette Hawkins, Project Manager Kawana Bowman, Finance and Grants Manager Julien C.E. Forrest and Executive Director Robbie R. Morganfield.</i></p>
 
 <!--This code was written by Ben Brasch doing his best while recovering from a Mary Mac's four-piece.-->
