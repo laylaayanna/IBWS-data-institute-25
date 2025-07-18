@@ -54,7 +54,9 @@ This is a collection and recollection of all the 14 members of the 2025 class of
   <li><a href="https://mikegrant.me/">Michael Grant</a></li>
 </ul class="instructor">
   
-<p>We are deeply indebted to them and those who came before us.</p>
+<p><i>We are deeply indebted to them and those who came before us.</i></p>
+
+<p>Below are the learning materials we used. Want to use the slides? The teaching materials fall under the <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons license</a>.</p>
 
 <dl class="weeks">
 <dt>Week 1:</dt>
@@ -68,8 +70,6 @@ This is a collection and recollection of all the 14 members of the 2025 class of
   <dd><a href="https://github.com/cjddatainstitute/data-institute-2025/#day-7">Day 7: Web Scraping, Fundamentals of Programming</a></dd>
   <dd><a href="https://github.com/cjddatainstitute/data-institute-2025/#day-8">Day 8: Even More Web Scraping</a></dd>
 </dl class="weeks">
-
-<p>Want to use the slides? The teaching materials fall under the <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons license</a>.</p>
 
 <h3>Things to remember, from our instructors:</h3>
   <ol>
