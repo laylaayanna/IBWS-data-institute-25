@@ -38,13 +38,13 @@ This is a collection and recollection of all the 14 members of the 2025 class of
     <dt>Datawrapper</dt>
       <dd>The best solution is <a href="https://www.datawrapper.de/">Datawrapper</a> if you want to make fancy, embeddable charts for free.</dd>
     <dt>Tableau</dt>
-      <dd>No-code mapping option <a href="https://www.tableau.com/trial/visualize-your-data">Tableau</a> is free for those with a university email address.</dd>
+      <dd>No-code mapping option, <a href="https://www.tableau.com/trial/visualize-your-data">Tableau</a> is free for those with a university email address.</dd>
     <dt>Python</dt>
       <dd>Using modules such as <a href="https://github.com/cjddatainstitute/data-institute-2025/blob/main/real-estate-gentrification-analysis-main/wiki/common_pandas_operations.md">Pandas</a> and <a href="https://matplotlib.org/">matplotlib</a>, Python can be an even easier data visualization powerhouse.</dd>
 </dl class="viz_data">
 
-<h4>Our invaluable instructors, structured as they'd want to be, include:</h4>
-<ul class="instructor">
+<h4>Our invaluable instructors, structured as they'd surely want to be, include:</h4>
+<ul class="instructor_list">
   <li><a href="https://thescoop.org/now/">Derek Willis</a></li>
   <li><a href="https://github.com/ellissimani">Ellis Simani</a></li>
   <li><a href="http://maggielee.net/">Maggie Lee</a></li>
@@ -52,7 +52,7 @@ This is a collection and recollection of all the 14 members of the 2025 class of
   <li><a href="https://sisiwei.com/">Sisi Wei</a></li>
   <li><a href="https://www.linkedin.com/in/richard-hackett/">Richard Hackett</a></li>
   <li><a href="https://mikegrant.me/">Michael Grant</a></li>
-</ul class="instructor">
+</ul class="instructor_list">
   
 <p><i>We are deeply indebted to them and those who came before us.</i></p>
 
