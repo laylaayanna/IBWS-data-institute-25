@@ -83,6 +83,6 @@ This is a collection and recollection of all the 14 members of the 2025 class of
 <h4>Quote to remember when approaching data:</h4>
 <p class="kicker">“Who’s the worst person I know who could have done this? And how would they have messed this up?” - <i>Derek</i></p>
 
-<p><i>A sincere thank you to the amazing Ida B. Wells Society team helmed by Executive Director Robbie R. Morganfield. They who handled the logistics and snacks and flights that made this possible: Program Manager Arlette Hawkins, Project Manager Kawana Bowman, Finance and Grants Manager Julien C.E. Forrest</i></p>
+<p><i>A sincere thank you to the amazing Ida B. Wells Society team helmed by Executive Director Robbie R. Morganfield. They who handled the logistics and snacks and flights that made this possible: Program Manager Arlette Hawkins, Project Manager Kawana Bowman, Finance and Grants Manager Julien C.E. Forrest.</i></p>
 
 <!--This code was written by Ben Brasch doing his best while recovering from a Mary Mac's four-piece chicken lunch, so sorry if anything is wrong.-->
