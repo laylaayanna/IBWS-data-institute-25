@@ -60,12 +60,14 @@ This is a collection and recollection of all the 14 members of the 2025 class of
 
 <p>Want to use the slides? The teaching materials fall under the <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons license</a>.</p>
 
-Things to remember, from our instructors:
-Make a copy! Don't work off the original!
-Keep a <a href="https://cronkitedata.github.io/cronkite-docs/general/04-data-diary.html">data diary</a> so others, and you, know what happened. 
-Computers are dumb! You need to tell them <i>exactly</i> what you want them to do or they get confused.
-Make a unique ID when you create a dataset. Then you can always get it back to the original order.
-If there's a web portal, that means there's a database. So put in a request for that database.
+<ol>
+  <h3>Things to remember, from our instructors:</h3>
+    <li>Make a copy! Don't work off the original!</li>
+    <li>Keep a <a href="https://cronkitedata.github.io/cronkite-docs/general/04-data-diary.html">data diary</a> so others, and you, know what happened.</li> 
+    <li>Computers are dumb! You need to tell them <i>exactly</i> what you want them to do or they get confused.</li>
+    <li>Make a unique ID when you create a dataset. Then you can always get it back to the original order.</li>
+    <li>If there's a web portal, that means there's a database. So put in a request for that database.</li>
+</ol>
 
 
 Key quote on data: “Who’s the worst person I know who could have done this? And how would they have messed this up?” - Derek
