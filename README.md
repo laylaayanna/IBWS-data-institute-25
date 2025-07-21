@@ -9,18 +9,23 @@
 <dt>For extracting data from readable PDFs
 </dt>
 <dd>We were taught to use a free tool called Tabula, which allows you to grab charts and convert them to .csv files for analysis. Here's an example of what that could look like: 
-</dd>
-<dt>Creating a data diary
+</dd><img width="600" height="300" alt="Screenshot 2025-07-18 123001" src="https://github.com/user-attachments/assets/f583374a-7edd-421e-a0a5-838b249cdd41" />
+  <h3>LLMs</h3>
+  <dt>Using LLMs to extract data</dt>
+  <dd>We learned how to create and use prompts with LLM for data extraction. This elimiates the risk of the LLM trying to create its own data. That's a no.</dd>
+  <dd>One use case? Turning notes taken in a .doc format into a .csv with the correct columns, rows and cell entries.</dd>
+  <h3>Data diaries</h3>
+<dt>Writing down what you've done, every step of the way
 </dt>
   <dd>Data diaries are way to track and share methodology.</dd>
   <dd>They can be published to boost story, publication and writer credibility.</dd>
+
 <h3>Tips on filing FOIA requests</h3>
 <dd>Automatic request generators like
 <a href="https://splc.org/lettergenerator/">this one from the Student Press Law Center
 </a> generate FOIA letters.
 <a href="https://www.foiamachine.org/"> This one from MuckRock
-</a>can also track the progress of your requests. Both tools are free.
-</dd>
+</a>can also track the progress of your requests. Both tools are free.</dd>
 </dl>
 <dl class="clean_data">
 <h3>Google Sheets
@@ -29,10 +34,12 @@
 </dt>
 <dd>We learned to use filters, pivot tables and charts (even with a little statistics) to find patterns, outliers and discrepancies.
 </dd>
-<dt>Creating a data diary
-</dt>
-  <dd>Data diaries are way to track and share methodology.</dd>
-  <dd>They can be published to boost story, publication and writer credibility.</dd>
+<dt>Other platforms we used to help analyze data</dt>
+  <ul>
+    <li><a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2025.pdf">Open Refine
+<a></li>
+    <li>Google Colab</li>
+  </ul>
 <a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2025.pdf">
 <a>
 </dd>
