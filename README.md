@@ -1,4 +1,4 @@
-# What we learned at IBWS
+# What we learned at the Data Institute
 <p class="intro">Here's what our class was taught during the two-week <a href="https://cjddatainstitute.org/">Data Institute</a> from the<a href="https://idabwellssociety.org/"> Ida B. Wells Society for Investigative Reporting</a> and the <a href="https://cfjd.howard.edu/"> Center for Journalism and Democracy</a>. The institute was divided into several categories including an introduction to data reporting, visualization and design, and web scraping, but all of it was geared toward one idea: <br></br>
 <strong>Exposure to tools and best practices for gathering and thoroughly analyzing data for investigative reporting.</strong></p>
 <h2>The tools
@@ -6,7 +6,8 @@
 <dl class="get_data">
 <h3>Tabula
 </h3>
-<dt>For extracting data from readable PDFs
+<dt>For extracting data from<a href="https://tabula.technology/">
+readable PDFs</a> 
 </dt>
 <dd>We were taught to use a free tool called Tabula, which allows you to grab charts and convert them to .csv files for analysis. Here's an example of what that could look like: 
 </dd><img width="600" height="300" alt="Screenshot 2025-07-18 123001" src="https://github.com/user-attachments/assets/f583374a-7edd-421e-a0a5-838b249cdd41" />
@@ -50,186 +51,58 @@
   <ul>
     <li>what you’re measuring/a control[population]*a normalizer (per 100k ppl for example)</li>
   </ul></dd></dt>
-<a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2025.pdf">
-<a>
-</dd>
-<dt>
-</dt>
-<dd>
-<a href="https://tabula.technology/">
-</a>
-</dd>
-<dt>
-</dt>
-<dd>
-<a href="https://docs.google.com/presentation/d/1k_Mui_M5SeDKGyhbAdFw-awfDHHYoOoRHiLrv_FGtRg/edit">
-</a>
-</dd>
-<dt>
-</dt>
-<dd>
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf">
-</a>
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf">
-</a>
-</dd>
-<dt>
-</dt>
-<dd>
-<a href="https://developer.chrome.com/docs/devtools/open">
-</a>
-</dd>
-<dt>
-</dt>
-<dd>
-<a href="https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US">
-</a>
-</dd>
-<dt>
-</dt>
-<dd>
-<a href="https://parsehub.com/">
-</a>
-</dd>
-<dt>
-</dt>
-<dd>
-<a href="https://distill.io/">
-</a>
-<a href="https://www.newsklaxon.org/">
-</a>
-</dd>
 </dl>
+  <dl class="coding">
+<h2>Coding and visualizing data</h2>
+  <h3>Coding languages</h3>
+<dt>There are many of them!
+</dt>
+<dd>All that really matters is most journalists use Python and R, which is helpful for trouble shooting
+  <dd>We learned basic HTML and CSS. That's how I made this page on GitHub.</dd>
+  <dd>We used local and web-based platforms that let you write and edit code to correspond with a website. These platforms include:</dd>
+  <ul>
+    <li>GitHub</li>
+    <li>Sublime Text</li>
+    <li><a href="https://colab.research.google.com/">Google Colab
+</a></li>
+  </ul>
+<h3>Webscraping</h3>
+  <dt>We learned to use pre-coded webscrapers to automate gathering large datasets.</dt>
+  <dd>Tools we used included: 
+    <ul></ul>
+    <li><a href="https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US">Instant Data Scraper
+</a>, a basic Google Chrome plug-in,</li>
+    <li><a href="https://parsehub.com/">Parsehub
+</a>, and</li>
+    <li><a href="https://distill.io/">Distill.io</a> ← This one was my favorite. It allows you to track and get email updates about changes to a website</li>
+  </dd>
+  <dt>Ultimately, the biggest takeaway was:</dt>
+  <dd>there are several pre-coded tools you can use, without having to do any coding yourself.</dd>
+  </dl>
 <dl class="viz_data">
-<h3>
-</h3>
-<dt>
+  <h2>Visualizing data</h2>
+<dt>We built charts on <a href="https://www.datawrapper.de/">Datawrapper
+</a>
+</dt>
+<dd>This was more of a refresher for me. I'd done it at Billy Penn, but also learned new tips to help improve the process, like how to make charts mobile-friendly.
+</dd>
+<dt>Mapping on Tableau
 </dt>
 <dd>
-<a href="https://www.datawrapper.de/">
-</a>
+<a href="https://www.tableau.com/trial/visualize-your-data">Tableau
+</a> lets you upload .csv's with locality information, and maps it.
 </dd>
-<dt>
-</dt>
-<dd>
-<a href="https://www.tableau.com/trial/visualize-your-data">
-</a>
-</dd>
-<dt>
-</dt>
-<dd>
-<a href="https://github.com/cjddatainstitute/data-institute-2025/blob/main/real-estate-gentrification-analysis-main/wiki/common_pandas_operations.md">
-</a>
-<a href="https://matplotlib.org/">
-</a>
-<a href="https://colab.research.google.com/">
-</a>
-</dd>
-</dl>
-<h4>
+<dl class="instructors">
+  <h2>Who taught us</h2>
+  <dt>Some of our instructors include</dt>
+  <ul class="instructors">
+    <li><a href="https://github.com/ellissimani">Ellis Imani
+</a> of ProPublica</li>
+    <li><a href="https://thescoop.org/about/">Derek Willis</a> of the University of Maryland J School</li>
+    <li><a href="http://maggielee.net/">Maggie Lee
+</a>, a data reporter at The Courant in Georgia</li>
+    <li><a href="https://sisiwei.com/">Sisi Wei
+</a>, who co-founded the Institute</li>
+  </ul></dl>
+<h4>Thanks so much for allowing me to go to this program, especially so soon after starting this position. I look forward to using what I learned to improve my journalism at TPM!
 </h4>
-<ul class="instructor_list">
-<li>
-<a href="https://thescoop.org/now/">
-</a>
-</li>
-<li>
-<a href="https://github.com/ellissimani">
-</a>
-</li>
-<li>
-<a href="http://maggielee.net/">
-</a>
-</li>
-<li>
-<a href="https://research.auctr.edu/prf.php?id=5a89da03-7cdb-11ed-9922-0ad758b798c3">
-</a>
-</li>
-<li>
-<a href="https://sisiwei.com/">
-</a>
-</li>
-<li>
-<a href="https://www.linkedin.com/in/richard-hackett/">
-</a>
-</li>
-<li>
-<a href="https://mikegrant.me/">
-</a>
-</li>
-</ul>
-<p>
-<i>
-</i>
-</p>
-<p>
-<a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/">
-</a>
-</p>
-<dl class="weeks">
-<dt>
-</dt>
-<dd>
-<a href="https://github.com/cjddatainstitute/data-institute-2025/#day-1">
-</a>
-</dd>
-<dd>
-<a href="https://github.com/cjddatainstitute/data-institute-2025/#day-2">
-</a>
-</dd>
-<dd>
-<a href="https://github.com/cjddatainstitute/data-institute-2025/#day-3">
-</a>
-</dd>
-<dd>
-<a href="https://github.com/cjddatainstitute/data-institute-2025/#day-4">
-</a>
-</dd>
-<dd>
-<a href="https://github.com/cjddatainstitute/data-institute-2025/#day-5">
-</a>
-</dd>
-<dt>
-</dt>
-<dd>
-<a href="https://github.com/cjddatainstitute/data-institute-2025/#day-6">
-</a>
-</dd>
-<dd>
-<a href="https://github.com/cjddatainstitute/data-institute-2025/#day-7">
-</a>
-</dd>
-<dd>
-<a href="https://github.com/cjddatainstitute/data-institute-2025/#day-8">
-</a>
-</dd>
-</dl>
-<h3>
-</h3>
-<ol>
-<li>
-</li>
-<li>
-<a href="https://cronkitedata.github.io/cronkite-docs/general/04-data-diary.html">
-</a>
-</li>
-<li>
-<i>
-</i>
-</li>
-<li>
-</li>
-<li>
-</li>
-</ol>
-<h4>
-</h4>
-<p class="kicker">
-<i>
-</i>
-</p>
-<p>
-<i>
-</i>
-</p>
-<!--This code was written by Ben Brasch doing his best while recovering from a Mary Mac's four-piece chicken lunch, so sorry if anything is wrong.-->
