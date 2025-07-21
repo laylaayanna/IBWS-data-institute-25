@@ -40,6 +40,16 @@
 <a></li>
     <li>Google Colab</li>
   </ul>
+  <h3>And, of course, we did some math</h3>
+  <dt>Just a little
+  <dd>We learned the percent change formula:
+  <ul>
+    <li>(new-old)/old</li>
+  </ul>
+  And the per capita formula:
+  <ul>
+    <li>what you’re measuring/a control[population]*a normalizer (per 100k ppl for example)</li>
+  </ul></dd></dt>
 <a href="https://propublica.s3.amazonaws.com/data-institute/open-refine-2025.pdf">
 <a>
 </dd>
